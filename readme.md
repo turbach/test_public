@@ -1,1 +1,1 @@
-Stub for testing OSF file access
+Stub for testing OSF public file access
